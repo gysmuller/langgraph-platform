@@ -1,0 +1,59 @@
+# RSpec test status
+.rspec_status
+
+# Generated gem files
+*.gem
+pkg/
+
+# Bundle state
+/.bundle
+/vendor/bundle/
+
+# Ruby version managers
+.ruby-version
+.ruby-gemset
+.rvmrc
+
+# Documentation
+/doc/
+/.yardoc
+/_yardoc
+/coverage/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+.project
+.classpath
+.settings/
+
+# Ruby LSP
+.ruby-lsp/
+
+# Test coverage reports
+/coverage/
+.simplecov
+
+# Local configuration
+.env
+.env.local
+
+# Benchmark results
+benchmark/
